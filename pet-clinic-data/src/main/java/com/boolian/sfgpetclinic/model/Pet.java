@@ -1,4 +1,4 @@
-package com.boolian.sfgpetclinic.sfgpetclinic.model;
+package com.boolian.sfgpetclinic.model;
 
 import java.time.LocalDate;
 
