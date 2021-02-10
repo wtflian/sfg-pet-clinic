@@ -1,0 +1,5 @@
+com\boolian\sfgpetclinic\model\Person.class
+com\boolian\sfgpetclinic\model\Pet.class
+com\boolian\sfgpetclinic\model\Vet.class
+com\boolian\sfgpetclinic\model\Owner.class
+com\boolian\sfgpetclinic\model\PetType.class
